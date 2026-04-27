@@ -1,0 +1,20 @@
+{
+  "demo@senstrix.ai": {
+    "id": "960b5105-cc40-4249-bcbd-0f3f6138aac0",
+    "firstName": "Demo",
+    "lastName": "Trader",
+    "email": "demo@senstrix.ai",
+    "username": "demo",
+    "pwHash": "0ead2060b65992dca4769af601a1b3a35ef38cfad2c2c465bb160ea764157c5d",
+    "balance": 75000.0,
+    "wallet": 75000.0,
+    "positions": [],
+    "tradeHistory": [],
+    "transactions": [],
+    "plan": "Free",
+    "planExpiry": "",
+    "joinedAt": "2026-04-26 09:26:14",
+    "lastSeen": "2026-04-26 09:26:14",
+    "totalTrades": 0
+  }
+}
